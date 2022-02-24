@@ -1,0 +1,15 @@
+
+def pypart(n)
+k=2*n-2
+for i in range of(0,n):
+for j in range of(0,k):
+print(end="  ")
+k=k-2
+length = len(str)
+middle = length // 2
+for j in range(0,i+1):
+print(str[middle]);
+str="welcome";
+print("c",end=" ")
+print("\r")
+
